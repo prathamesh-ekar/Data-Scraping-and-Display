@@ -1,4 +1,4 @@
-This project contains:
+## This project contains:
 1. DataScraping.ipynb - Code for scraping data from www.books.toscrape.com
 2. data.csv - The scrapped data in CSV format.
 3. data.db - The scrapped data in db format compatible with SQLite.
@@ -6,6 +6,6 @@ This project contains:
 
 The Python code for data scraping uses libraries like BeautifulSoup to parse gthe HTML and XML files. The parsed data is stored as a CSV and a .db file to be used in databases of choice. Database used in this case is MySQL.
 
-# Check out my profile: 
+#### Check out my profile: 
 * GitHub Link: https://github.com/prathamesh-ekar/DataScraping
 * LinkedLin: https://www.linkedin.com/in/prathamesh-ekar-a97999152/.
