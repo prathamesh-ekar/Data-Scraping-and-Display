@@ -5,4 +5,5 @@ This project contains:
 3. data.db - The scrapped data in db format compatible with SQLite.
 
 GitHub Link: https://github.com/prathamesh-ekar/DataScraping
-LinkedLin: https://www.linkedin.com/in/prathamesh-ekar-a97999152/
+
+LinkedLin: https://www.linkedin.com/in/prathamesh-ekar-a97999152/.
