@@ -1,6 +1,8 @@
 ## Data scraping from Book.toScrape.com using Python, storing in a database and displaying data in an HTML table using Bootstrap framework.
 **Developed by:** Prathamesh Rajesh Ekar, MCA student, Veermata Jijabai Technological Institute. 
 
+**GitHub repository:**  https://github.com/prathamesh-ekar/DataScraping
+
 ## This project contains:
 ```
 1. DataScraping.ipynb - Code for scraping data from www.books.toscrape.com
@@ -12,5 +14,5 @@
 The Python code for data scraping uses libraries like BeautifulSoup to parse the HTML and XML files. The parsed data is stored as a CSV and a .db file to be used in databases of choice. Database used in this case is **MySQL**.
 
 #### Check out my profile: 
-* GitHub Link: https://github.com/prathamesh-ekar/DataScraping
+* GitHub Link: https://github.com/prathamesh-ekar
 * LinkedLin: https://www.linkedin.com/in/prathamesh-ekar-a97999152/.
